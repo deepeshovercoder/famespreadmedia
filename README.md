@@ -68,6 +68,6 @@ This project is licensed under the MIT License - see the MIT License(LICENSE) fi
 For any inquiries or feedback, feel free to contact me:
 
 - **Deepesh:** Your Name
-- **deepeshchourasia2003@gmail.com:** your-email@example.com
+- **deepeshchourasia2003@gmail.com:** 
 - **GitHub:** [deepeshovercoder](https://github.com/deepeshovercoder)
 
